@@ -96,7 +96,7 @@ This app demonstrates an end-to-end ML workflow — from data preprocessing and 
 ## ☁️ Deployment on Streamlit Cloud
 
 1. Push this repository to GitHub.  
-2. Go to [https://share.streamlit.io](https://share.streamlit.io).  
+2. Go to [[https://share.streamlit.io](https://fraud-detection-btdzhenb7f2sbqibe3ojcq.streamlit.app/)].  
 3. Click **New app → Connect your GitHub repo**.  
 4. Select `fraud_detection.py` as the main file.  
 5. Streamlit Cloud will automatically install the packages from `requirements.txt`.  
