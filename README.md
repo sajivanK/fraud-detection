@@ -28,7 +28,7 @@ This app demonstrates an end-to-end ML workflow — from data preprocessing and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fraud-detection-app.git
+   git clone https://github.com/sajivanK/fraud-detection.git
    cd fraud-detection-app
    ```
 
